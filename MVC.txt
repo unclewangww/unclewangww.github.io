@@ -1,5 +1,0 @@
-	MVC 是一种使用 MVC（Model View Controller 模型-视图-控制器）设计创建 Web 应用程序的模式：
-	Model（模型）表示应用程序核心（比如数据库记录列表）。
-	View（视图）显示数据（数据库记录）。
-	Controller（控制器）处理输入（写入数据库记录）。
-	MVC 模式同时提供了对 HTML、CSS 和 JavaScript 的完全控制。
